@@ -1,0 +1,14 @@
+* -text
+*.doc binary
+*.docx binary
+*.ppt binary
+*.pptx binary
+*.pdf binary
+*.zip binary
+*.rar binary
+*.xlsx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.mat binary
+*.h5 binary
